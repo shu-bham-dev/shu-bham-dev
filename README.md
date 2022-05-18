@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shu-bham-dev
 - 👀 I’m interested in Data Structures and Web Development
-- 🌱 I’m currently learning Diffrent Web Development Stacks
+- 🌱 I’m currently learning Different Web Development Stacks
 - 💞️ I’m looking to collaborate on Open Source Web Development Projects
 - 📫 How to reach me ss.cse1001@gmail.com
 
