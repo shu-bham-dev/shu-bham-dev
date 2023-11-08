@@ -6,4 +6,4 @@
 <p>
   <img src="https://i.giphy.com/media/3o75225E3756w2zMKk/giphy-downsized-large.gif" width ='32px'>
 </p>
-  <a href="https://github.com/shu-bham-dev/github-readme-stats"><img alt="Shubham's Github Stats" src="![shu-bham-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shu-bham-dev&theme=vue-dark&hide_border=true)" height="192px"/></a>
+  <a href="https://github.com/shu-bham-dev/github-readme-stats"><img alt="Shubham's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=shu-bham-dev&theme=vue-dark&hide_border=true" height="192px"/></a>
