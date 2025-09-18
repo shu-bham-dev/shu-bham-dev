@@ -16,13 +16,25 @@
 
 ## 🛠️ Tech Stack
 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-111111?logo=flydotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+
 ```yaml
-Frontend:   React, TailwindCSS, Sometimes Hope and Prayer
-Backend:    Node.js, NestJS, Express
-Database:   MongoDB (a.k.a. JSON but angrier)
-Cloud:      AWS, Fly.io, Vercel (Basically: CTRL+C → Deploy → Pray)
-AI/ML:      ChatGPT + Googling until it works
-DevOps:     Git, Docker, Copy-Paste from StackOverflow
+Frontend:  React, TailwindCSS, Sometimes Hope and Prayer
+Backend:   Node.js, NestJS, Express
+Database:  MongoDB (a.k.a. JSON but angrier)
+Cloud:     AWS, Fly.io, Vercel (Basically: CTRL+C → Deploy → Pray)
+AI/ML:     ChatGPT + Googling until it works
+DevOps:    Git, Docker, Copy-Paste from StackOverflow
 ```
 
 ---
@@ -63,4 +75,6 @@ StackOverflow: 1 question asked, 473 answers copy-pasted
 
 ---
 
-Want me to make a **spicier version with colorful shields.io badges** (like `![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)` etc.) so your README looks both **funny + professional**?
+### 🐍 Contribution Graph Snake
+
+![snake gif](https://github.com/shu-bham-dev/shu-bham-dev/blob/output/github-contribution-grid-snake.svg)
